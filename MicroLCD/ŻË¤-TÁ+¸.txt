@@ -1,0 +1,7 @@
+
+接线说明：
+ 
+   GND          地
+   VCC          3.3V或者5V
+   SCL          接A5
+   SDA          接A4
